@@ -18,15 +18,15 @@ Este portfólio foi criado utilizando **HTML** para a estrutura, com **CSS** par
 ## 📂 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LuizGuidini/Portfolio_.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
 ## 📬 Contato
 Se quiser saber mais sobre meu trabalho, entre em contato:
-- 📧 E-mail: seuemail@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🌐 [Meu Portfólio](https://seusite.com) *(caso tenha um domínio hospedado)*
+- 📧 E-mail: luizantoniomg@hotmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-guidini-41311a53)
+- 🌐 [Meu Portfólio](https://seusite.com)
 
 ---
 🔹 *Sinta-se à vontade para contribuir ou sugerir melhorias!*
