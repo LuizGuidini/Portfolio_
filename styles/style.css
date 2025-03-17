@@ -155,7 +155,7 @@ span:hover{
     width: 50%;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
     .cabecalho {
         padding: 10%;
     }
