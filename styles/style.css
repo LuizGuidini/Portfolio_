@@ -172,4 +172,8 @@ span:hover{
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__imagem {
+        width: 70%;
+    }
 }
